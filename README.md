@@ -1,0 +1,2 @@
+Exploration of maximally infectous grids for conways game of life. 
+Implemented on sparse matrix sort of operation. Eventual goal is to explore this with some fancy genetic algorithims. More immediate step is to reduce to number of computations that are crunched through.
